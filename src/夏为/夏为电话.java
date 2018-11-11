@@ -4,6 +4,16 @@ public class ÏÄÎªµç»° {
 
 	public static void main(String[] args) {
 		System.out.println("18271411805");
+		System.out.println("18271411805");
+		
+		System.out.println("18271411805");
+		System.out.println("18271411805");
+		System.out.println("18271411805");
+		System.out.println("18271411805");
+		System.out.println("18271411805");
+		System.out.println("18271411805");
+		
+		System.out.println("18271411805");
 	}
 
 }
