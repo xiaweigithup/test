@@ -4,13 +4,14 @@ public class 夏为电话 {
 
 	public static void main(String[] args) {
 
-		System.out.println("18271411805");
-		System.out.println("1==========05");
-		System.out.println("18---------05");
-		System.out.println("18271411805");
-
-		System.out.println("18271411805");
-
+		为啥t7ihytcutiuioisxtf
+		染头发严格保护你家门口了，；h
+		rtyguhijokpfcghnjfubh
+		时代先锋，luikl
+		sddhgggfkhj
+		fdgfhmjkjlkhgjj
+		sdgfhgjhjfghjm
+		
 	}
 
 }
